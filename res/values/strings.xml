@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">MusicRecommendations</string>
+    <string name="app_name">Music Recommendations</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Testing first android application</string>
+    <string name="get_tracks">Getting Tracks</string>
+    <string name="top_artists">Top Artists</string>
+    <string name="top_tracks">Top Tracks</string>
+    <string name="events">Events</string>
+    <string name="top_albums">Top Albums</string>
+
 
 </resources>
